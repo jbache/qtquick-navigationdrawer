@@ -1,3 +1,3 @@
 
 RESOURCES += \
-    $$PWD/com_cutehacks_qtquick-navigationdrawer.qrc
+    $$PWD/com_cutehacks_navigationdrawer.qrc

@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/com/cutehacks/qtquick-navigationdrawer">
-        <file>qmldir</file>
-        <file>NavigationDrawer.qml</file>
-    </qresource>
-</RCC>
