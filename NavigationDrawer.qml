@@ -81,7 +81,7 @@ Rectangle {
     onOpenChanged: completeSlideDirection()
     width: _expandedWidth
     x: _collapsedX
-    z: 10
+    
 
     function _setupAnchors() {     // Note that we can't reliably apply anchors using bindings
         _rootItem = _findRootItem();
