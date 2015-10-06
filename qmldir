@@ -1,2 +1,3 @@
-NavigationDrawer.qml NavigationDrawer 1.0
+NavigationDrawer 1.0 NavigationDrawer.qml
+
 module com.cutehacks.navigationdrawer
