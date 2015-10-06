@@ -1,0 +1,22 @@
+{
+  "name": "com.cutehacks.qtquick-navigationdrawer",
+  "description": "",
+  "author": {
+    "name": "Jens Bache-Wiig",
+    "email": "jens@cutehacks.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "https://github.com/jbache/qtquick-navigationdrawer.git"
+  },
+  "version": {
+    "label": "0.0.1",
+    "revision": "",
+    "fingerprint": ""
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "pri_filename": "com_cutehacks_qtquick-navigationdrawer.pri",
+  "webpage": ""
+}
